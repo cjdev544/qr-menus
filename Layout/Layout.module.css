@@ -1,0 +1,24 @@
+.container {
+  display: grid;
+  height: 100vh;
+  place-items: center;
+}
+
+.main {
+  background: var(--background-gray-light);
+  border-radius: 10px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow: auto;
+  position: relative;
+  width: 100%;
+}
+
+@media (min-width: 440px) {
+  .main {
+    height: 90vh;
+    width: 440px;
+  }
+}

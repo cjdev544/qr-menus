@@ -1,0 +1,34 @@
+.home {
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+}
+
+.imageBox {
+  align-items: center;
+  background-color: var(--background-light);
+  border-radius: 50%;
+  border: 2px solid var(--border-gray);
+  display: flex;
+  height: 140px;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 1rem;
+  overflow: hidden;
+  width: 140px;
+}
+
+.home h2,
+.home h3 {
+  color: var(--font-gray-dark);
+  margin: 0;
+}
+
+.ligth {
+  color: var(--font-gray);
+}
+
+.nav {
+  margin: 0 auto;
+  width: 92%;
+}

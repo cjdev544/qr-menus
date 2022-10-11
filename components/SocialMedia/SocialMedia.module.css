@@ -1,0 +1,21 @@
+.social {
+  margin: 2rem auto;
+  margin-bottom: 1rem;
+  width: 92%;
+}
+
+.web {
+  color: var(--font-gray-dark);
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+.social h4 {
+  color: var(--font-gray-dark);
+  margin-bottom: 0;
+}
+
+.group {
+  display: flex;
+  justify-content: space-between;
+}

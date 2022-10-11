@@ -1,0 +1,28 @@
+.menuList {
+  align-items: center;
+  background-color: var(--background-light);
+  border-radius: 10px;
+  border: 3px solid var(--border-gray);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  color: var(--font-gray);
+  display: flex;
+  font-weight: bold;
+  height: 70px;
+  justify-content: space-between;
+  margin: 0 auto;
+  margin-top: 1rem;
+  max-width: 96%;
+  overflow: hidden;
+  padding: 0 1rem;
+  text-decoration: none;
+  width: 100%;
+}
+
+.menuList h3 {
+  font-size: 1.3rem;
+}
+
+.menuList img {
+  height: 70px;
+  width: 70px;
+}
