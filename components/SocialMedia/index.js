@@ -6,16 +6,6 @@ import styles from './SocialMedia.module.css'
 export default function SocialMedia() {
   return (
     <div className={styles.social}>
-      <h4>Realiza tus pedidos en</h4>
-      <a
-        className={styles.web}
-        href='https://www.centralfoodmalaga.com'
-        target='_blank'
-        rel='noreferrer'
-        aria-label='centralfoodmalaga'
-      >
-        www.centralfoodmalaga.com
-      </a>
       <h4>Siguenos en nuestras redes</h4>
       <div className={styles.group}>
         <Button
