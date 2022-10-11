@@ -47,3 +47,8 @@ a {
 .separator {
   padding: 25px;
 }
+
+.imagesPages {
+  min-height: 100%;
+  margin-bottom: 2rem;
+}

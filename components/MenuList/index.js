@@ -15,8 +15,7 @@ export default function MenuList() {
           <h3>Sushi Guay</h3>
           <Image
             src={LogoSushi}
-            alt='logo sushiguay'
-            placeholder='blur'
+            alt='logo sushiguay'            
             width={70}
             height={70}
           />
@@ -27,8 +26,7 @@ export default function MenuList() {
           <h3>GuayWok</h3>
           <Image
             src={LogoGuay}
-            alt='logo guaywok'
-            placeholder='blur'
+            alt='logo guaywok'            
             width={70}
             height={70}
           />
@@ -39,8 +37,7 @@ export default function MenuList() {
           <h3>Con Sabor a Casita</h3>
           <Image
             src={LogoSabor}
-            alt='logo con sabor a casita'
-            placeholder='blur'
+            alt='logo con sabor a casita'            
             width={70}
             height={70}
           />
@@ -51,8 +48,7 @@ export default function MenuList() {
           <h3>Hamburguesería VZLA</h3>
           <Image
             src={LogoHamburgueseria}
-            alt='Hamburguesería VZLA'
-            placeholder='blur'
+            alt='Hamburguesería VZLA'            
             width={70}
             height={70}
           />

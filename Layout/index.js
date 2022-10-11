@@ -9,10 +9,7 @@ export default function Layout({ children }) {
         <meta name='description' content='menu QR de centralfoodnalaga' />
         <link rel='icon' href='/favicon.ico' />
       </Head>
-      <main className={styles.main}>
-        {children}
-        <h3>aquis</h3>
-      </main>
+      <main className={styles.main}>{children}</main>
     </div>
   )
 }
